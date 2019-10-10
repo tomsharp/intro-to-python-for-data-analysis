@@ -1,3 +1,8 @@
+# project specific 
+plots/iris_pairplot.png
+plots/iris_scatterplot.png
+plots/iris_scatterplot-seaborn.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
